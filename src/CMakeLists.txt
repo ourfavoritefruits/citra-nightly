@@ -117,6 +117,7 @@ else()
 
     if (NOT CMAKE_BUILD_TYPE STREQUAL Debug)
         # _FORTIFY_SOURCE can't be used without optimizations.
+        add_compile_options(-Wp,-U_FORTIFY_SOURCE)
         add_compile_options(-Wp,-D_FORTIFY_SOURCE=2)
     endif()
 
