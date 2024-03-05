@@ -68,8 +68,8 @@ If you want to contribute to the user interface translation, please check out th
 
 ## Building
 
-* __Windows__: [Windows Build](https://github.com/citra-emu/citra/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://github.com/citra-emu/citra/wiki/Building-For-Linux)
+* __Windows__: [Windows Build](https://web.archive.org/web/20240304193542///github.com/citra-emu/citra/wiki/Building-For-Windows)
+* __Linux__: [Linux Build](https://web.archive.org/web/20240304193542///github.com/citra-emu/citra/wiki/Building-For-Linux)
 * __macOS__: [macOS Build](https://github.com/citra-emu/citra/wiki/Building-for-macOS)
 * __Android__: [Android Build](https://github.com/citra-emu/citra/wiki/Building-for-Android)
 
